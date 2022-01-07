@@ -1,0 +1,12 @@
+---
+content_type: resource
+course_id: 18-s34-problem-solving-seminar-fall-2007
+description: Assignment with Pigeonhole problems.
+file: null
+file_location: /coursemedia/18-s34-problem-solving-seminar-fall-2007/46c0303e0c1644adb23cef984669e02a_pigeon.pdf
+file_type: application/pdf
+layout: pdf
+title: pigeon.pdf
+type: course
+uid: 46c0303e-0c16-44ad-b23c-ef984669e02a
+---
